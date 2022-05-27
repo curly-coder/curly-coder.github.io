@@ -74,22 +74,6 @@
 										Утонченные сочетания и бархатные оттенки - вот то, что вы искали в этом сезоне. Время исследовать.
 									</p>
 								</div>
-								<div class="slider-header_item">
-									<h1 class="hero-title text-sm-center text-md-left">
-										Что-то новенькое. Мы заждались тебя.
-									</h1>
-									<p class="hero-desc text-sm-center text-lg-right">
-										Надоело искать себя в сером городе? Настало время новых идей, свежих красок и вдохновения с Womazing!
-									</p>
-								</div>
-								<div class="slider-header_item">
-									<h1 class="hero-title text-sm-center text-md-left">
-										Включай новый сезон с WOMAZING
-									</h1>
-									<p class="hero-desc text-sm-center text-md-right">
-										Мы обновили ассортимент - легендарные коллекции и новинки от отечественных дизайнеров
-									</p>
-								</div>
 							</div>
 						<div class="buttons align-items-center d-flex offset-lg-1">
 							<div class="arrow d-none d-lg-block">
